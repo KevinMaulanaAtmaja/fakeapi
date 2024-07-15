@@ -1,0 +1,7 @@
+{
+  "todos": [
+    {"id":0, "text":"coding", "completed": false},    
+    {"id":1, "text":"belajar", "completed": false},    
+    {"id":2, "text":"part-time", "completed": false}    
+  ]
+}
